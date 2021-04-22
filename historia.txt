@@ -1,4 +1,4 @@
 Prueba de Github
 2da linea agregada
 
-Hola soy Andre
+Hola soy Andre, y estoy aprendiendo Github.
